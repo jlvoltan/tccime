@@ -4,5 +4,5 @@
 
 
 - [Dedicatória](https://github.com/jlvoltan/tccime/blob/main/dedicatoria.md): Alteração de alinhamento;
-- [Palavras-chave](https://github.com/jlvoltan/tccime/blob/main/palavrachave.md): Alteração da separação;
+- [Palavras-chave](https://github.com/jlvoltan/tccime/blob/main/palavrachave.md): Alteração do separador;
 
