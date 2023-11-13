@@ -1,6 +1,6 @@
 # :memo: Palavras-chave
 
-:speech_balloon: Aqui iremos alterar o separador das palavras-chave, originalmente se utilizava o ponto final (.), entretando, tem-se solicitado o uso da vírgula (,), exceto para a última..
+:speech_balloon: Aqui iremos alterar o separador das palavras-chave, originalmente se utilizava o ponto final (.), entretando, tem-se solicitado o uso do ponto e vírgula (;), exceto para a última. P.e. `Palavras-chave: Aprendizado de máquina; Classificação textual; Maturidade tecnológica.`
 
 :one: Ir no arquivo *abntex2ime.sty*
 
