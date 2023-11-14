@@ -1,7 +1,10 @@
 # :books: Tabelas e quadros longos
 
-<img src="/imagens/quadrolongo.gif" alt="Descrição da imagem" width="300">
 
+
+<div align="center"> 
+<img src="/imagens/quadrolongo.gif" alt="Descrição da imagem" width="300">
+</div>
 
 :speech_balloon: Aqui iremos configurar o _LATEX_ para aceitar quadros e tabelas com mais do que uma página .
 
