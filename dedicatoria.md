@@ -1,7 +1,7 @@
 # :memo: Dedicatória
 
 <h1 align="center">
-    <img src="tccime/imagens/dedicatoria.gif">
+    <img src="/imagens/dedicatoria.gif">
 </h1>
 
 
