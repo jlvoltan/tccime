@@ -4,10 +4,9 @@
 
 :one: Ir no arquivo *main.tex*
 
-:two: Inserir o seguinte trecho:
+:two: Inserir o seguinte trecho, na linha antes de   ```% Espaçamentos entre linhas e parágrafos ```
 
 <pre>
-% TESTE DO LONGO QUADRO  VOLTAN
 \usepackage[strut=off]{caption}
 \usepackage{float}
 \usepackage{longtable}
