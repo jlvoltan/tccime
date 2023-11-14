@@ -1,7 +1,9 @@
 # :memo: Dedicatória
 
-
+<div align="center"> 
 <img src="/imagens/dedicatoria.gif" alt="Descrição da imagem" width="300">
+</div>
+
 
 
 :speech_balloon: Aqui iremos alterar o alinhamento da dedicatória, deixando-a alinhada na parte inferior direita.
