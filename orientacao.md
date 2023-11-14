@@ -1,5 +1,8 @@
 # :on: Orientação página
 
+<img src="/imagens/deitado.gif" alt="Descrição da imagem" width="300">
+
+
 :speech_balloon: Aqui iremos alterar a orientação de uma página específica. Isso pode ser útil por exemplo em uma página onde existe uma tabela.
 
 :one: Ir no arquivo *main.tex* e adicionar o pacote _pdflscape_
