@@ -1,5 +1,10 @@
 # :memo: Dedicatória
 
+<h1 align="center">
+    <img src="tccime/imagens/dedicatoria.gif">
+</h1>
+
+
 :speech_balloon: Aqui iremos alterar o alinhamento da dedicatória, deixando-a alinhada na parte inferior direita.
 
 :one: Ir no arquivo *pre-texto.tex*
