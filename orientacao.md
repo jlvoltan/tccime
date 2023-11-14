@@ -1,6 +1,9 @@
 # :on: Orientação página
 
+<div align="center"> 
 <img src="/imagens/deitado.gif" alt="Descrição da imagem" width="300">
+</div>
+
 
 
 :speech_balloon: Aqui iremos alterar a orientação de uma página específica. Isso pode ser útil por exemplo em uma página onde existe uma tabela.
