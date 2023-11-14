@@ -1,5 +1,8 @@
 # :bookmark_tabs: Autoref
 
+<img src="/imagens/autoref.gif" alt="Descrição da imagem" width="300">
+
+
 :speech_balloon: Aqui iremos alterar . Ao se referir a um Capítulo, Seção, Subseção específica, devemos utilizar a inicial maiúscula. Acontece que o comando `\autoref{}` está configurado para inserir essas palavras todas minúsculas .
 
 :one: Ir no arquivo *abntex2.cls*
