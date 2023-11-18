@@ -11,10 +11,15 @@ Dicas:
 - [Alterar orientação da página](https://github.com/jlvoltan/tccime/blob/main/orientacao.md): Alterar a orientação de uma página;
 - [Tabelas e quadros longos](https://github.com/jlvoltan/tccime/blob/main/tabelalonga.md): Se destina a apresentar adequadamente tabelas e quadros que sejam maiores do que uma página.
 
-
-
-
 🤓 Cada caderno contem um _gif_ com o antes e depois para facilitar a visualização do que é proposto.
+
+---
+
+- [Sugestões de Funções/pacotes úteis](https://github.com/jlvoltan/tccime/blob/main/funcoesuteis.md)
+
+
+
+
 
 ---
 :books: [Orientações sobre Normalização de Trabalhos Acadêmicos - IME](https://www.ime.eb.mil.br/orientacoes-sobre-normalizacao-de-trabalhos-academicos.html)
