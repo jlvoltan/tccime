@@ -10,6 +10,7 @@ Dicas:
 - [Autoref](https://github.com/jlvoltan/tccime/blob/main/autoref.md): Corrige as iniciais de Seção, Subseção(...) utilizados em conjunto com o comando `\autoref{}`
 - [Alterar orientação da página](https://github.com/jlvoltan/tccime/blob/main/orientacao.md): Alterar a orientação de uma página;
 - [Tabelas e quadros longos](https://github.com/jlvoltan/tccime/blob/main/tabelalonga.md): Se destina a apresentar adequadamente tabelas e quadros que sejam maiores do que uma página.
+- [Ficha catalográfica](https://github.com/jlvoltan/tccime/blob/main/ficha.md): Correção no nome de autor e orientador para ficha catalográfica
 
 🤓 Cada caderno contem um _gif_ com o antes e depois para facilitar a visualização do que é proposto.
 
